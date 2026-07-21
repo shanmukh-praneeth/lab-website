@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Dr. Sasirekha GVK",
+    "role": "Postdoctoral Fellow | Industrial IoT",
+    "image": "/people/sasirekha.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "postdoc",
+    "email": "sasirekha@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/dr-sasirekha-gvk-60a7b4b/?originalSubdomain=in"
+  },
+  {
+    "name": "Dr. Sharvari Ravindran",
+    "role": "Postdoctoral Fellow | Network Slicing and Resource Allocation",
+    "image": "/people/sharvari.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "postdoc",
+    "email": "Sharvari.R@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/dr-sharvari-ravindran-ph-d-35928223a/"
+  },
+  {
+    "name": "Dr. Dibakar Das",
+    "role": "Postdoctoral Fellow | Zero Touch Networks",
+    "image": "/people/Dibakar.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "postdoc",
+    "email": "dibakar.das@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/dibakar-das-ph-d-2a35843/?originalSubdomain=in"
+  },
+  {
+    "name": "Dr. Tamizhelakkiya K",
+    "role": "Senior Research Fellow | Zero Touch Networks",
+    "image": "/people/Elakkiya.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "srf",
+    "email": "tamizhelakkiya.k@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/dr-tamizhelakkiya-k-523891ba/"
+  },
+  {
+    "name": "Indhu M",
+    "role": "Senior Research Fellow | Energy Management Systems",
+    "image": "/people/Indhu.png",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Sasirekha GVK",
+    "category": "srf",
+    "email": "indhu.m@iiitb.ac.in"
+  }
+]

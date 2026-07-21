@@ -1,0 +1,268 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+}
+
+.navbar {
+  width: 100%;
+
+  height: 70px;
+
+  background: white;
+
+  display: flex;
+
+  align-items: center;
+
+  padding: 0 20px;
+
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+  box-sizing: border-box;
+
+  z-index: 9999;
+
+}
+
+.nav-left {
+  flex: 1;
+}
+
+.menu {
+  flex: 2;
+}
+
+
+/* LAB NAME */
+
+.lab-name {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.lab-name:visited,
+.lab-name:active,
+.lab-name:hover {
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.8;
+}
+
+
+
+/* MENU */
+
+.menu {
+
+  width: 70%;             /* fixed width */
+
+  display: flex;
+
+  justify-content: flex-end;
+
+  gap: 14px;
+
+  list-style: none;
+
+  font-size: 14px;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+
+
+/* MENU ITEMS */
+
+.menu li {
+
+  position: relative;
+
+  cursor: pointer;
+
+  font-size: 15px;
+
+  padding: 8px 10px;
+
+  white-space: nowrap;
+
+}
+
+
+
+
+/* DROPDOWN */
+
+.dropdown {
+
+  position: absolute;
+
+  pointer-events: auto;
+
+  top: 100%;
+
+  left: 0;
+
+  background: #ffffff;
+
+  border-radius: 6px;
+
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+
+  list-style: none;
+
+  padding: 10px 0;
+
+  min-width: 200px;
+
+  z-index: 1000;
+
+}
+
+
+/* DROPDOWN ITEMS */
+
+.dropdown li {
+
+  padding: 12px 20px;
+
+  font-size: 15px;
+
+  color: #333;
+
+  cursor: pointer;
+
+  transition: background 0.2s ease;
+
+}
+
+
+/* HOVER EFFECT */
+
+.dropdown li:hover {
+
+  background: #f2f6fb;
+
+}
+
+.menu li:hover .dropdown {
+  display: block;
+}
+
+.menu li:last-child .dropdown {
+  left: auto;
+  right: 0;
+}
+
+.institute-strip {
+  left: 0;
+  width: 100%;
+
+  background: #0b3d91;
+  color: #fff;
+
+  padding: 8px 24px;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+
+  z-index: 3000;
+  cursor: pointer;
+  user-select: none;
+}
+
+.institute-link {
+  display: inline-block;  
+  cursor: pointer;
+  user-select: none;
+  transition: opacity 0.2s ease;
+}
+
+.institute-link:hover {
+  opacity: 1;
+}
+
+.hamburger-menu {
+  display: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: #0b3d91;
+  user-select: none;
+}
+
+@media (max-width: 768px) {
+
+  .lab-name {
+    font-size: 14px;
+    line-height: 1.2;
+    max-width: 180px;
+  }
+
+  .navbar {
+    padding: 0 20px;
+    height: 70px;
+    position: relative;
+  }
+
+  .hamburger-menu {
+    display: block;
+  }
+
+  .menu {
+    display: none;
+
+    position: absolute;
+
+    top: 70px;
+    left: auto;
+    right: 12px;
+
+    width: 75%;
+
+    background: white;
+
+    flex-direction: column;
+    justify-content: flex-start;
+
+    gap: 0;
+
+    padding: 16px 0;
+
+    box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  }
+
+  .menu.mobile-open {
+    display: flex;
+  }
+
+  .menu > li {
+
+    padding: 16px 28px;
+
+    width: 100%;
+
+    box-sizing: border-box;
+  }
+
+  .dropdown {
+
+    position: static;
+
+    background: #f9f9f9;
+
+    box-shadow: none;
+
+    margin-top: 10px;
+
+    margin-left: 20px;
+  }
+
+}

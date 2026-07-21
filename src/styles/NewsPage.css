@@ -1,0 +1,71 @@
+.news-page {
+  background: white;
+  min-height: 100vh;
+}
+
+/* Main article container */
+.news-content {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 40px 28px 100px;
+}
+
+/* Date */
+.news-meta {
+  font-size: 15px;
+  color: #6b7280;
+  margin-bottom: 30px;
+  letter-spacing: 0.3px;
+}
+
+/* Hero image */
+.news-image {
+  width: 100%;
+  display: block;
+
+  border-radius: 14px;
+
+  margin-bottom: 45px;
+}
+
+/* Main title */
+.newsitem-title {
+  font-size: 52px;
+  line-height: 1.15;
+  font-weight: 700;
+
+  color: #111827;
+
+  margin-bottom: 18px;
+
+  max-width: 900px;
+}
+
+/* Article text */
+.news-content p {
+  font-size: 20px;
+  line-height: 1.95;
+
+  color: #374151;
+
+  margin-bottom: 30px;
+
+  max-width: 850px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+
+  .news-content {
+    padding: 30px 20px 80px;
+  }
+
+  .news-content h2 {
+    font-size: 36px;
+  }
+
+  .news-content p {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+}

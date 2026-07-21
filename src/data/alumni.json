@@ -1,0 +1,126 @@
+[
+    {
+    "name": "Dr. Subha P E",
+    "program": "PhD",
+    "role": "PhD Student | Dynamic Spectrum Management",
+    "image": "/people/subha.jpg",
+    "status": "graduated",
+    "graduationYear": 2016,
+    "supervisor": "Dr. Jyotsna Bapat"
+  },
+  {
+    "name": "Dr. Parthiban",
+    "program": "PhD",
+    "role": "PhD Student | Resource Allocation",
+    "image": "/people/Parthiban.jpg",
+    "status": "graduated",
+    "graduationYear": 2022,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://in.linkedin.com/in/parthibanannamalai"
+  },
+  {
+    "name": "Dr. Pradnya Gaonkar",
+    "program": "PhD",
+    "role": "PhD Student",
+    "image": "/people/Pradnya.jpg",
+    "status": "graduated",
+    "graduationYear": 2022,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://in.linkedin.com/in/pradnya-gaonkar"
+  },
+  {
+    "name": "Dr. Sharvari N P",
+    "program": "PhD",
+    "role": "PhD Student | Routing Algorithms for UAV-Assisted Communication",
+    "image": "/people/sharvarinp.jpg",
+    "status": "graduated",
+    "graduationYear": 2025,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://in.linkedin.com/in/n-p-sharvari?original_referer=https%3A%2F%2Fwww.google.com%2F"
+  },
+  {
+    "name": "Dr. Neeta Jha",
+    "program": "PhD",
+    "role": "PhD Student",
+    "image": "/people/Neeta.jpg",
+    "status": "graduated",
+    "graduationYear": 2025,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Amrita Mishra",
+    "profileLink": "https://in.linkedin.com/in/neeta-jha"
+  },
+  {
+    "name": "Soumaditya Chaudhuri",
+    "program": "MS",
+    "role": "MS Researcher",
+    "image": "/people/Soumaditya.jpg",
+    "status": "graduated",
+    "graduationYear": 2025,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Amrita Mishra",
+    "profileLink": "https://in.linkedin.com/in/soumaditya-chaudhuri"
+  },
+  {
+    "name": "Akansha Singh",
+    "program": "MS",
+    "role": "MS Researcher",
+    "image": "/people/Akansha.jpg",
+    "status": "graduated",
+    "graduationYear": 2014,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das"
+  },
+  {
+    "name": "Sunita Katre",
+    "program": "MS",
+    "role": "MS Researcher",
+    "image": "/people/Sunita.jpg",
+    "status": "graduated",
+    "graduationYear": 2019,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://in.linkedin.com/in/sunita-katre-06b68929"
+  },
+  {
+    "name": "Reena Mamgain",
+    "program": "MS",
+    "role": "MS Researcher",
+    "image": "/people/Reena.jpg",
+    "status": "graduated",
+    "graduationYear": 2023,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/reena-mamgain-6aaab4201"
+  },
+  {
+    "name": "Ravi Shankar",
+    "program": "MS",
+    "role": "MS Researcher",
+    "image": "/people/ravishankar.jpg",
+    "status": "graduated",
+    "graduationYear": 2024,
+    "supervisor": "Dr. Jyotsna Bapat"
+  },
+  {
+    "name": "Venkata Vivek G",
+    "program": "MS",
+    "role": "MS Researcher",
+    "image": "/people/Venkata.jpg",
+    "status": "graduated",
+    "graduationYear": 2024,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das"
+  },
+  {
+    "name": "Priyadarshini P R",
+    "role": "MS Researcher",
+    "image": "/people/Priyadarshini.jpg",
+    "status": "graduated",
+    "graduationYear": 2026,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Amrita Mishra",
+    "profileLink": "https://www.linkedin.com/in/priyadarshini-rengarajan-284065bb/?originalSubdomain=in"
+  },
+  {
+    "name": "Manjunath V",
+    "program": "MS",
+    "role": "MS Researcher",
+    "image": "/people/Manjunath.jpg",
+    "status": "graduated",
+    "graduationYear": 2026,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das"
+  }
+]

@@ -1,0 +1,608 @@
+{
+    "2026": {
+        "conference": [
+            {
+                "title": "Joint Latency and Throughput Optimization Based Scheduling in Heterogenous MultiAccess Networks",
+                "authors": ["Manjunath Vemanna", "Sharvari Ravindran", "Jyotsna Bapat", "Debabrata Das"],
+                "venue": "National Conference on Communications (NCC) 2026"
+            },
+            {
+                "title": "LA-MCTS-Based Phase Optimization for Non-Ideal RIS-Assisted Systems",
+                "authors": ["Arnav Ouganty", "Anshuman Rao", "Dhruv Ramesh Joshi", "T. Sanjana", "Amrita Mishra", "Jyotsna Bapat"],
+                "venue": "PIMRC 2026"
+            },
+            {
+                "title": "Evolutionary Algorithm-based Circuit Design for Intelligent Reflecting Surface Unit Cell in mmWave Frequency Band",
+                "authors": ["T. Sanjana", "Dikshant Mahawar", "Teerth Bhalgat", "Sakshi Arora", "Jyotsna Bapat", "Amrita Mishra"],
+                "venue": "IEEE CONECCT 2026"
+            },
+            {
+                "title": "Breach-Tolerant Kubernetes Intrusion Detection System Using Trusted External Resource Telemetry",
+                "authors": ["Deepansh Pandey", "Gaurav Verma", "Eshwar Chandra", "Yogita Karke", "Jyotsna Bapat"],
+                "venue": "12th IEEE International Conference on Network Softwarization (NetSoft 2026)"
+            }
+        ],
+        "journal":[
+            {
+                "title": "RSRQ-Based Efficient Decomposition of Cell-Free Massive MIMO Networks",
+                "authors": ["H. Rudramuniyappa", "P. Singh", "J. Bapat"],
+                "venue": "IEEE Communications Letters, vol. 30, pp. 26-30, 2026"
+            },
+            {
+                "title": "Enhancing User Service Quality and Experience in 6G Networks With Two-Stage Combinatorial Multi-Domain Resource Management",
+                "authors": ["Sharvari Ravindran", "Jyotsna Bapat", "Debabrata Das"],
+                "venue": "IEEE Transactions on Wireless Communications, vol. 25, pp. 17289-17305, 2026, doi: 10.1109/TWC.2026.3693437"
+            },
+            {
+                "title": "Joint Pilot and Reflection Coefficient Design for Finite-bit Resolution IRS-aided mmWave MIMO Systems,",
+                "authors": ["T. Sanjana", "Amrita Mishra", "Jyotsna Bapat"],
+                "venue": "IEEE Transactions on Communications, doi: 10.1109/TCOMM.2026.3698873"
+            }
+        ],
+        "bookChapter": [
+            {
+                "chapter": "Implications of Generative AI on IoT Security: A Dual Perspective",
+                "authors": ["Yogita Pimpalkar", "Sharvari Ravindran", "Jyotsna Bapat", "Debabrata Das"],
+                "book": "Advancements in IoT Sensors and Security, Springer"
+            }
+        ]
+    },
+    "2025": {
+        "conference": [
+        {
+            "title": "“Novel Random Access Protocol for Resource Efficient mMTC Access in Cell-Free Massive MIMO System",
+            "authors": ["Srinivasan Selvaganapathy", "Sharvari Ravindran", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Future Networks World Forum (FNWF) 2025"
+        },
+        {
+            "title": "Digital Twin Assisted Proactive Management in Zero Touch Networks",
+            "authors": ["Tamizhelakkiya. K", "D. Das", "K. Sharma", "J. Bapat", "D. Das"],
+            "venue": "IEEE Future Networks World Forum (FNWF) 2025"
+        },
+        {
+            "title": "A Novel Integrated Architecture for Intent Based Approach and Zero Touch Networks",
+            "authors": ["N. Gupta", "D. Das", "K. Tamizhelakkiya", "Uma Maheswari", "R. Sharvari", "K. Sharma", "J. Bapat", "D. Das"],
+            "venue": "IEEE Future Networks World Forum (FNWF) 2025"
+        },
+        {
+            "title": "Digital Twin Assisted Proactive Management in Zero Touch Networks",
+            "authors": ["D. Das", "K. Sharma", "J. Bapat", "D. Das"],
+            "venue": "IEEE Future Networks World Forum (FNWF) 2025"
+        },
+        {
+            "title": "Enhancing Spectral Efficiency for Clustered User Geometry in Sub-connected Hybrid Beamforming Systems",
+            "authors": ["Neeta Jha", "Amrita Mishra", "Jyotsna Bapat"],
+            "venue": "IEEE 101st Vehicular Technology Conference (VTC2025-Spring) 2025"
+        },
+        {
+            "title": "Minimizing Power Consumption in Age of Information Constrained Cell-Free Massive MIMO Networks",
+            "authors": ["Amudheesan N.", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE WiOpt2025, 2025"
+        },
+        {
+            "title": "Multi-RIS Based Target Positioning in Passive Radars",
+            "authors": ["Soumaditya Chaudhuri", "Amrita Mishra", "Jyotsna Bapat"],
+            "venue": "IEEE international Conference, ICCC 2025"
+        },
+        {
+            "title": "Novel Closed Loop Control Mechanism for Zero Touch Networks Using BiLSTM and Q-Learning",
+            "authors": ["Tamizhelakkiya K", "Dibakar D.", "Jyotsna B.", "Debabrata Das", "Komal Sharma"],
+            "venue": "IEEE National Communication Conference (NCC 2025)"
+        },
+        {
+            "title": "Adaptive Latency and Throughput Aware Multi-Access Scheduler for 5G Advanced and Beyond",
+            "authors": ["Manjunath Vemanna", "Sharvari Ravindran", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE National Communication Conference (NCC 2025)"
+        },
+        {
+            "title": "RAG-inspired Intent-Based Solution for Intelligent Autonomous Networks",
+            "authors": ["U. M. Natarajan", "R. B. Diddigi", "J. Bapat"],
+            "venue": "International Conference on COMmunication Systems and NETworks (COMSNETS) 2025"
+        },
+        {
+            "title": "TASC : Tactical Assessment-based SD-WAN Control For Mainstream Traffic Management",
+            "authors": ["P. Iddalagi", "Amrita Mishra"],
+            "venue": "IEEE Future Networks World Forum (FNWF) 2025"
+        },
+        {
+            "title": "Convolutional Neural Network-Based Channel Estimation for mmWave MIMO-OTFS Systems",
+            "authors": ["L. P. B", "Amrita Mishra", "P. Das"],
+            "venue": "IEEE Wireless Communications and Networking Conference (WCNC) 2025"
+        }
+        ],
+        "journal": [
+        {
+            "title": "Compost Monitoring System for Kitchen Waste Management: Development",
+            "authors": ["Sasirekha Gurla Venkata Kameswari", "Arun Basavaraju", "Chandrashekhar Siva Kumar", "Jyotsna Bapat"],
+            "venue": "Deployment and Analysis. IoT 2025, 6, 64"
+        },
+        {
+            "title": "Coordinated Q-learning based Multi-hop Routing for UAV-assisted communication",
+            "authors": ["NP Sharvari", "D Das", "J Bapat", "D Das"],
+            "venue": "Pervasive and Mobile Computing, Volume 114, 2025, 102105, ISSN 1574-1192"
+        },
+        {
+            "title": "Enhancing Spectral Efficiency in Sub-Connected Hybrid Beamforming Systems via Beam Pattern Design",
+            "authors": ["Neeta Jha", "Amrita Mishra", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Journal on Physical Communication, Elsevier Publication, Physical Communication, Volume 71, 2025, 102700, ISSN 1874-4907"
+        },
+        {
+            "title": "Target detection for OTFS-aided cell-free MIMO ISAC system",
+            "authors": ["S Singh", "A Nakkeeran", "P Singh", "E Sharma", "J Bapat"],
+            "venue": "IEEE Transactions on Vehicular Technology, March 2025"
+        },
+        {
+            "title": "Social and Ethical Challenges in Future 6G Networks",
+            "authors": ["V. Sridhar", "Amrita Mishra", "A. Iqubbal"],
+            "venue": "IEEE Technology and Society Magazine, 2025"
+        },
+        {
+            "title": "Analysis of Techno-Social and Regulatory Challenges in Future 6G Networks and Services",
+            "authors": ["V. Sridhar", "Amrita Mishra", "A. Iqubbal"],
+            "venue": "IEEE Technology and Society Magazine, 2025"
+        },
+        {
+            "title": "Enhanced Flow Rate-Based Queuing Discipline for Contention Avoidance in SD-WANs",
+            "authors": ["P. Iddalagi", "Amrita Mishra"],
+            "venue": "IEEE Open Journal of the Communications Society, vol. 6, pp. 2566-2582, 2025"
+        },
+        {
+            "title": "Sparse Channel Estimation in IRS-Assisted Massive MIMO Cognitive Radio Systems",
+            "authors": ["A. Agarwal", "Amrita Mishra", "A. Ray", "P. Das"],
+            "venue": "IEEE Transactions on Communication, vol. 73, no. 1, pp. 200-215, January 2025"
+        }
+        ]
+    },
+
+    "2024": {
+        "conference": [
+        {
+            "title": "Optimizing Synchronization Signal Block Transmissions for Sum-Rate Maximization in Sub-Connected Hybrid Beamforming Systems",
+            "authors": ["Neeta Jha", "Amrita Mishra", "Jyotsna Bapat", "Debabrata Das", "Saptarshi Chaudhuri"],
+            "venue": "IEEE International Conference on Advanced Networks and Telecommunication Systems (ANTS 2024)"
+        },
+        {
+            "title": "Variational Bayesian Inference-based Robust Channel Estimation for IRS-assisted mmWave MIMO systems",
+            "authors": ["T. Sanjana", "A. Mishra", "J. Bapat"],
+            "venue": "2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)"
+        },
+        {
+            "title": "Ascon-128 With PicoRV32 for Authenticated Encryption at IoT Edge on FPGA",
+            "authors": ["Haribabu Pasupuleti", "Sasirekha GVK", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference CONECCT 2024"
+        },
+        {
+            "title": "Improving Channel Estimation in IRS-Aided mmWave MIMO Systems via CNN and Sparse Bayesian Learning",
+            "authors": ["S. T", "M. R. Koppula", "G. Arella", "A. Agarwal", "A. Mishra", "J. Bapat"],
+            "venue": "IEEE Region 10 Symposium (TENSYMP) 2024"
+        },
+        {
+            "title": "Digital Twin Based What-If Simulation of Security Attacks in Smart Irrigation Systems",
+            "authors": ["Karan Ramesh", "Sasirekha Gvk", "Madhav Rao", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference CONECCT 2024"
+        },
+        {
+            "title": "Novel Protocol for Efficient MTC Transmission Over Massive MIMO Enabled 2 Step RACH",
+            "authors": ["Srinivasan Selvaganapathy S", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom) 2024"
+        },
+        {
+            "title": "Ethical Design of Edge-Based Smart Irrigation System by Use Case Analysis",
+            "authors": ["Sasirekha Gvk", "Mokshananda Reddy", "Madhav Rao", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Communication Systems and Network Technologies (CSNT 2024)"
+        },
+        {
+            "title": "A High Throughput ASCON Architecture for Secure Edge IoT Devices",
+            "authors": ["A. Koppuravuri", "H. Pasupuleti", "S. Gvk", "J. Bapat"],
+            "venue": "2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID)"
+        },
+        {
+            "title": "Reinforcement Learning-based Deep Queue Network Model for Tunnel Health Probing Protocol Management in SD-WAN",
+            "authors": ["P. Iddalagi", "Amrita Mishra"],
+            "venue": "IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN 2024)"
+        }
+        ],
+        "journal": [
+        {
+            "title": "Improved Q-learning based Multi-hop Routing for UAV-Assisted Communication",
+            "authors": ["Sharvari NP", "Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Transactions on Network and Service Management (TNSM), 2024"
+        },
+        {
+            "title": "A Novel E2E Path Selection Algorithm for Superior QoS and QoE for 6G Services",
+            "authors": ["Yogita Pimpalkar", "Sharvari R", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Transactions on Network and Service Management (TNSM), 2024"
+        },
+        {
+            "title": "Perfect UE Grouping for Frequency Sharing in Full Duplex Cellular Networks",
+            "authors": ["Parthiban Annamalai", "Pradeesha Ashok", "Rajath Rao", "Divyanshi Rajput", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Wireless Communications Letters, 2024"
+        },
+        {
+            "title": "Channel and Delay Weighted Response Ratio Scheduler for 5G and Beyond Systems",
+            "authors": ["P. R. Priyadarshini", "J. Bapat", "A. Mishra"],
+            "venue": "IEEE Communications Letters, vol. 28, no. 7, pp. 1658-1662, July 2024"
+        },
+        {
+            "title": "Novel Static Puncturing Scheme for Facilitating Ultra-Reliable Low-Latency IoT Communications",
+            "authors": ["Amudheesan Nakkeeran", "Prashant Wali", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Transaction on Internet of Things, Accepted August 2024"
+        },
+        {
+            "title": "Node and Edge Centrality based Failures in Multi-layer Complex Networks",
+            "authors": ["Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Journal of Computational Science, Elsevier, Vol. 82, October 2024"
+        },
+        {
+            "title": "Novel Adaptive Multi-User Multi-Services Scheduling to Enhance Throughput in 5G-Advanced and Beyond",
+            "authors": ["Sharvari R", "Saptarshi C", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Transaction on Network and Service Management, (TNSM), January 2024"
+        }
+        ]
+    },
+
+    "2023": {
+        "conference": [
+        {
+            "title": "Strategic Placement of Intrusion Detection Systems in IoT Mesh Networks through Machine Learning",
+            "authors": ["Samhitha Perala", "Manaswitha Reddy", "Sharvari Ravindran", "Sasirekha Gvk", "Jyotsna Bapat"],
+            "venue": "International Conference on Networking, Systems and Security, NSysS 2023"
+        },
+        {
+            "title": "ML-Augmented Network Packet Broker based Anomaly Detection at IIoT-Edge Egress Port",
+            "authors": ["Sasirekha Gvk", "Annapoorna Gh", "Madhav Rao", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS 2023)"
+        },
+        {
+            "title": "Enhancing User Detection via SS Burst Repetition in 5G Millimeter Wave Systems",
+            "authors": ["Neeta Jha", "Saptarshi Chaudhuri", "Jyotsna Bapat", "Amrita Mishra", "Debabrata Das"],
+            "venue": "IEEE 98th Vehicular Technology Conference (VTC2023)"
+        },
+        {
+            "title": "Efficient RAN Overload Control Mechanism for NR based mMTC by Dynamic SCMA for RACH",
+            "authors": ["Srinivasan Selvaganapathy", "Amudheesan N.", "Prashant Wali", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference CONECCT 2023"
+        },
+        {
+            "title": "New Attacks on Cloud Container-Based IoT Systems in 5G-Advanced and Beyond",
+            "authors": ["Yogita Pimpalkar", "Sharvari R", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference CONECCT 2023"
+        },
+        {
+            "title": "Multi-User Service Throughput Estimation for Adaptive Resource Management in 5G-Advanced and Beyond Sliced Networks",
+            "authors": ["Sharvari Ravindran", "Yogita P.", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference CONECCT 2023"
+        },
+        {
+            "title": "Synthesis of IoT Sensor Telemetry Data for Smart Home Edge-IDS Evaluation",
+            "authors": ["Sasirekha GVK", "Amulya Bangari", "Madhav Rao", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "2023 International Conference on Computer Science, Information Technology and Engineering (ICCoSITE)"
+        },
+        {
+            "title": "Binary Power Control and Passive Beamforming for RIS-Assisted Spectrum Sharing Network",
+            "authors": ["P. Das", "S. Kashyap", "R. Sarvendranath", "Amrita Mishra"],
+            "venue": "2023 IEEE Globecom Workshops (GC Wkshps)"
+        },
+        {
+            "title": "Sparse Bayesian Learning-based Channel Estimation for IRS-aided Millimeter Wave Massive MIMO Systems",
+            "authors": ["A. Agarwal", "Amrita Mishra", "P. Das"],
+            "venue": "2023 IEEE 34th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)"
+        }
+        ],
+        "journal": [
+        {
+            "title": "A Two-Stage Fast Beam Search for Multi-user Millimeter-wave Massive MIMO Systems",
+            "authors": ["Neeta Jha", "Amrita Mishra", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Wireless Communication Letters, February 2023"
+        }
+        ]
+    },
+
+    "2022": {
+        "conference": [
+        {
+            "title": "Electro-Mechanical Design of Sensor-Hub for Indoor Smart Irrigation",
+            "authors": ["Jagan P", "Sasirekha Gvk", "Madhav Rao", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Sensors 2022"
+        },
+        {
+            "title": "A Proactive Connection Setup Mechanism for Large Quantum Networks",
+            "authors": ["Dibakar Das", "Shiva K Malapaka", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2022)"
+        },
+        {
+            "title": "Fast Beam Search with Two-Level Phased Array in Millimeter-Wave Massive MIMO: A Hierarchical Approach",
+            "authors": ["Neeta Jha", "Amrita Mishra", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Wireless Communications and Networking Conference (WCNC 2022)"
+        },
+        {
+            "title": "Knowledge-based Digital Twin For Oil and Gas 4.0 Upstream Process: A System Prototype",
+            "authors": ["R Shankar", "Sasirekha Gvk", "C Ramanathan", "J Bapat"],
+            "venue": "2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)"
+        },
+        {
+            "title": "Context Aware Site-visit Scheduling for Asset Management in Oil & Gas Sector",
+            "authors": ["Ravi Shankar", "GVK Sasirekha", "Chandrashekar Ramanathan", "Jyotsna Bapat"],
+            "venue": "2022 IEEE 5th International Conference on Industrial Cyber-Physical Systems (ICPS)"
+        },
+        {
+            "title": "Improved Target Localization in Multistatic Radar Using Least Squares Method",
+            "authors": ["Reena Mamgain", "Jyotsna Bapat"],
+            "venue": "IEEE International Aerospace Conference 2022"
+        }
+        ],
+        "journal": [
+        {
+            "title": "Connectivity and Collision Constrained Opportunistic Routing for Emergency Communication using UAV",
+            "authors": ["N P Sharvari", "Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Computer Networks, Elsevier, 2022"
+        },
+        {
+            "title": "UE Grouping Algorithms to Maximize Frequency Sharing in Hybrid IBFD Networks",
+            "authors": ["Parthiban Annamalai", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Transaction on Wireless Communication, Vol. 21, No. 11, November 2022"
+        },
+        {
+            "title": "Air Quality and Thermal Comfort Management for Energy-Efficient Large Public Buildings",
+            "authors": ["Pradnya Gaonkar", "Amudheesan Nakkeeran", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Journal of Architecture, Structures and Construction, Springer-Nature, 2022"
+        },
+        {
+            "title": "Sparse Bayesian Learning Aided Estimation of Doubly-Selective MIMO Channels for Filter Bank Multicarrier Systems",
+            "authors": ["P. Singh", "S. Srivastava", "Amrita Mishra", "A. K. Jagannatham", "L. Hanzo"],
+            "venue": "IEEE Transactions on Communications, vol. 70, no. 6, pp. 4236-4249, June 2022"
+        }
+        ]
+    },
+
+    "2021": {
+        "conference": [
+        {
+            "title": "Efficient Service Allocation Scheduling Algorithms for 5G User Equipments in Slice-in-Slice Networks",
+            "authors": ["Sharvari Ravindran", "Saptarshi Chaudhuri", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Advanced Networks and Telecommunication Systems, 2021"
+        },
+        {
+            "title": "Localizing Worst-Parent Rank Attack using Intelligent Edges of Smart Buildings",
+            "authors": ["Sasirekha GVK", "Bhanu Prakash V", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "International Conference on Computational Intelligence in Security for Information Systems (CISIS-2021)"
+        },
+        {
+            "title": "Priority based Discrete time Dynamic Routing Algorithm for Emergency Evacuation",
+            "authors": ["Sharvari NP", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2021)"
+        },
+        {
+            "title": "Location Privacy-Preserving Mechanism - A Data-Driven Approach Status",
+            "authors": ["Ankush Dua", "Jyotsna Bapat"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2021)"
+        },
+        {
+            "title": "An Efficient Beam Search Algorithm for mmWave Massive MIMO",
+            "authors": ["Neeta Jha", "Saptarshi Chaudhuri", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom) 2021"
+        },
+        {
+            "title": "Privacy Enhanced Energy Prediction in Smart Building Using Federated Learning",
+            "authors": ["Sai Venketesh Dasari", "Kaushal Mittal", "Sasirekha Gvk", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS) 2021"
+        },
+        {
+            "title": "A Data Augmented Bayesian Network for Node Failure Prediction in Optical Networks",
+            "authors": ["Dibakar Das", "Mohammad Fahad I", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Artificial Intelligence in Information and Communication (ICAIIC) 2021"
+        },
+        {
+            "title": "A Non-Intrusive Failure Prediction Mechanism for Deployed Optical Networks",
+            "authors": ["Dibakar Das", "Mohammad Fahad I", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Machine Intelligence in Networked Data and Systems (MINDS) Workshop, IEEE/ACM IEEE Communication Systems and Networks (COMSNETS 2021)"
+        },
+        {
+            "title": "Detecting Spoofing Attacks in Zigbee using Device Fingerprinting",
+            "authors": ["Grace Hanusha Talakala", "Jyotsna Bapat"],
+            "venue": "2021 IEEE 18th Annual Consumer Communications & Networking Conference (CCNC)"
+        },
+        {
+            "title": "Prediction of Wi-Fi Comfort in Buildings using Support Vector Machines",
+            "authors": ["Pradnya Gaonkar", "Sasirekha GVK", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE 6th International Conference for Convergence in Technology (I2CT) 2021"
+        }
+        ],
+        "journal": [
+        {
+            "title": "Resource Allocation Algorithm for Hybrid IBFD Cellular Networks for 5G and Beyond",
+            "authors": ["Parthiban Annamalai", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Transaction on Wireless Communication, September 2021"
+        },
+        {
+            "title": "Occupancy Detection for Emergency Management of Smart Building Based on Indoor Localization",
+            "authors": ["Sarthak Khoche", "K. Vinay Chandrasekhar", "G. V. K. Sasirekha", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Springer-Nature Computer Science Journal, August 2021"
+        }
+        ]
+    },
+
+    "2020": {
+        "conference": [
+        {
+            "title": "Near Real-time Occupancy Detection for Smart Building Emergency Management: A Prototype",
+            "authors": ["Sarthak Koche", "Sasirekha Gvk", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Symposium on Smart Electronic Systems (iSES – 2020)"
+        },
+        {
+            "title": "Comfort Management System for Smart Buildings: An Open Source Scalable Prototype",
+            "authors": ["Pradnya Gaonkar", "Advait Lonkar", "Sasirekha GVK", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference HydCon2020"
+        },
+        {
+            "title": "EESO: Energy Efficient System-resource Optimization of Multi-Sub-Slice-Connected User in 5G RAN",
+            "authors": ["Sharvari Ravindran", "Saptarshi Chaudhuri", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2020)"
+        },
+        {
+            "title": "Comparative Analysis of Geometry of Receiver Placement in Multistatic Radar Configuration",
+            "authors": ["Reena Mamgain", "Jyotsna Bapat"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2020)"
+        },
+        {
+            "title": "Doubling Spectral Efficiency Independent of Cell Sizes in 5G using Hybrid IBFD Cellular Network",
+            "authors": ["Parthiban A", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Wireless Communications and Networking Conference (WCNC) 2020"
+        }
+        ],
+        "journal": [
+        {
+            "title": "Unsupervised learning based Capacity Augmentation in SDN assisted Wireless Networks",
+            "authors": ["Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Springer-Nature Computer Science Journal"
+        }
+        ]
+    },
+    "2019": {
+        "conference": [
+        {
+            "title": "Average Delay-based System Resource Optimization of Sub-Slices in 5G RAN",
+            "authors": ["Sharvari Ravindran", "Saptarshi Chaudhuri", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS) 2019"
+        },
+        {
+            "title": "SINR based Uplink Sub-band Clustering Mechanism for Differentiated Services in NOMA",
+            "authors": ["Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS) 2019"
+        },
+        {
+            "title": "IoT Testbed for Thermal Profiling of a Smart Building",
+            "authors": ["Sai Venketesh Dasari", "Sasirekha GVK", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE INDICON 2019"
+        },
+        {
+            "title": "Robotic Extension to IoT Testbed for Indoor Environment Supervision",
+            "authors": ["Sasirekha GVK", "Sai Venketesh Dasari", "Adhisaya T", "Aswini P", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "International conference on IoT in Social, Mobile, Analytics and Cloud (I-SMAC), Palladam, India, 12-14 December 2019"
+        },
+        {
+            "title": "Isolation-based Sub-Slices for Throughput Optimization in 5G Radio Access Network",
+            "authors": ["Sharvari Ravindran", "Saptarshi Choudhury", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2019)"
+        },
+        {
+            "title": "Power Saving with Capacity Augmentation for Sustained QoS in 5G Cloud RAN",
+            "authors": ["Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2019)"
+        },
+        {
+            "title": "Comprehensive Risk Mapping for Strategic Evacuation in Semi-Outdoor and Outdoor Setups in Smart Cities",
+            "authors": ["Sharvari N P", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2019)"
+        },
+        {
+            "title": "Challenges in the Design of an IoT Testbed",
+            "authors": ["Sasirekha GVK", "Adhisaya T", "Aswini P", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "International Conference on Intelligent Communication and Computation Techniques (ICCT 2019)"
+        },
+        {
+            "title": "Occupancy Estimation in Semi-Public Spaces using Sensor Fusion and Context Awareness",
+            "authors": ["Pradnya Gaonkar", "Jyotsna Bapat", "Debabrata Das", "Subrahmanya VRK Rao"],
+            "venue": "IEEE International Conference TENSYMP-2019, Kolkata, June 7-9, 2019"
+        },
+        {
+            "title": "Impact of Variable Voice Packet Size To Reduce Packet Loss in Bandwidth Constraint Military Network",
+            "authors": ["Sunita Katre", "Aakansha Goswami", "Prashant Mishra", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference For Convergence and Technology (I2CT), Pune, 29-31st March 2019"
+        }
+        ]
+    },
+    "2018": {
+        "conference": [
+        {
+            "title": "Improved Connectivity Using Differential Priority Assignments in Military Network",
+            "authors": ["Sunita Katre", "Aakansha Goswami", "Prashant Mishra", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "International Conference on Parallel Distributed and Grid Computing (PDGC), JUIT, Solan, 20-22 December 2018"
+        },
+        {
+            "title": "Emerging Access Technologies and Open Challenges in 5G IoT: From Physical Layer Perspective",
+            "authors": ["Parthiban Annamalai", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS-2018)"
+        },
+        {
+            "title": "Resource Engagement and Response Pattern Inference Model to Improve Service Handling Delegation System in IoT Environment",
+            "authors": ["Manasij Sur Roy", "Jyotsna Bapat"],
+            "venue": "IEEE International Conference on Electronics Computing and Communication Technologies (CONECCT-2018)"
+        },
+        {
+            "title": "Hardware Agnostic Universal Shareable IoT Platform",
+            "authors": ["Kanika Narang", "Jyotsna Bapat"],
+            "venue": "International Conference on Wireless Communications Signal Processing and Networking (WiSPNET), March 22-24, 2018"
+        }
+        ],
+        "journal": [
+        {
+            "title": "A Novel Frequency Allocation Scheme for In Band Full Duplex Systems in 5G Networks",
+            "authors": ["Parthiban A", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Wireless Communication Letters, September 2018"
+        },
+        {
+            "title": "SDN Assisted Self-Organizing Network Architecture for Multi-RAT Networks and Mobility Prediction",
+            "authors": ["Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Wireless Networks, Springer, pp 1-18, June 2018"
+        },
+        {
+            "title": "A Survey on QoE and Energy Cost Optimization Strategies for Smart Buildings",
+            "authors": ["Pradnya Gaonkar", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "CSI Transaction on ICT, Computer Society of India, Springer, June 2018"
+        }
+        ]
+    },
+    "2017": {
+        "conference": [
+        {
+            "title": "Energy Budget Constrained Comfort Optimization for Smart Building",
+            "authors": ["Pradnya Gaonkar", "Amudheesan Adhithan", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference TENSYMP-2017, Cochin, India, July 14-16, 2017"
+        }
+        ],
+        "journal": [
+        {
+            "title": "Location-Aware Multi-Objective Optimization for Energy Cost Management in Semi-Public Buildings using Thermal Discomfort Information",
+            "authors": ["Pradnya Gaonkar", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Sustainable Cities and Society journal, Elsevier, December 2017"
+        },
+        {
+            "title": "A Dynamic QoS Negotiation Mechanism Between Wired and Wireless SDN Domains",
+            "authors": ["Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Transaction on Network and Service Management (TNSM), Volume 14, Issue: 4, December 2017"
+        }
+        ]
+    },
+    "2016": {
+        "conference": [
+        {
+            "title": "A Reliable and Secure Approach for Efficient Car-to-Car Communication in Intelligent Transportation Systems",
+            "authors": ["Anushree Joshi", "Pradnya Gaonkar", "Jyotsna Bapat"],
+            "venue": "International Conference on Wireless Communications, Signal Processing, and Networking (WiSPNET), December 2016"
+        },
+        {
+            "title": "Optimal Scheduling of Spectrum Sensing in LTE-A TDD Frame",
+            "authors": ["Vishnu Priya K P", "Sasirekha GVK", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "Region 10 Symposium (TENSYMP), May 9 - May 11, 2016, Bali, Indonesia. IEEE, 2016"
+        },
+        {
+            "title": "Feasibility Study for Wi-Fi in the TV Whitespaces of Bangalore",
+            "authors": ["Sarada Subramanian", "Gangadhara Reddy Mallangi", "Sasirekha GVK", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET-2016)"
+        }
+        ],
+        "journal": [
+        {
+            "title": "Constellation Constraining-Based Coverage Enhancement Technique for MTC Devices in LTE-A",
+            "authors": ["Parthiban A", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Wireless Communication Letter, Volume: 5, Issue: 6, pp 596-599, December 2016"
+        },
+        {
+            "title": "Coverage Enhancement for MTC Devices using Reduced Search Viterbi Decoder Across RATs",
+            "authors": ["Parthiban A", "Jyotsna Bapat", "Debabrata Das"],
+            "venue": "IEEE Communication Letter, Vol. 20, No. 9, pp 1892-1895, September 2016"
+        }
+        ]
+    }
+}

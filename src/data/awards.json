@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Best Paper Award (Track 2)",
+    "authors": ["S Chaudhari", "Amrita Mishra", "Jyotsna Bapat"],
+    "paperTitle": "Multi-RIS-based Target Positioning in Passive Radars",
+    "conference": "IEEE International Conference on Control, Communication and Computing (ICCC) 2025"
+  },
+  {
+    "title": "Best Track Paper Award and Overall Conference Best Paper Award (Academia)",
+    "authors": ["S. Ravindran", "Y. Pimpalkar", "Jyotsna Bapat", "Debabrata Das"],
+    "paperTitle": "Multi-User Service Throughput Estimation for Adaptive Resource Management in 5G-Advanced and Beyond Slicing Networks",
+    "conference": "IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT) 2023"
+  },
+  {
+    "title": "Best Paper Award",
+    "authors": ["D. Das", "S. K. Malapaka", "J. Bapat", "D. Das"],
+    "paperTitle": "A Proactive Setup Mechanism for Large Quantum Networks",
+    "conference": "IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT) 2022"
+  },
+  {
+    "title": "Overall Best Paper Award",
+    "authors": ["Ramkumar T S", "Mohanraja B", "Debabrata Das"],
+    "paperTitle": "Novel 5G and B5G Network Architecture and Protocol for Multi SIM Devices",
+    "conference": "IEEE CONECCT 2021"
+  },
+  {
+    "title": "Best Paper Award",
+    "authors": ["Mohan P D", "Debabrata Das"],
+    "paperTitle": "Efficient way of Non-GBR, High Latency GTPU Packet Transmission in 4G and 5G Networks",
+    "conference": "IEEE COECCT 2021 in Intelligent Technologies Track"
+  },
+  {
+    "title": "Best Paper Award",
+    "authors": ["Tushar Vrind", "Lalit Pathak", "Debabrata Das", "Sudharshan Rao"],
+    "paperTitle": "Deep Learning-based LAP Deployment and Aerial Infrastrucutre Sharing in 6G",
+    "conference": "IEEE CONECCT 2020 in Vehicular Communications Technology and Autonomous Vehicle Track"
+  },
+  {
+    "title": "Best Paper Award",
+    "authors": ["Nishant", "Kailash K Jha", "Alok K Jangrid", "Debabrata Das"],
+    "paperTitle": "Efficient Protocol for Reliable Mobile Origination Connection in URLLC Devices",
+    "conference": "IEEE CONECCT 2020 in Communications Track"
+  },
+  {
+    "title": "Overall Best Paper Award",
+    "authors": ["Sharvari R","Spatashri C.", "Jyotsna Bapat", "Debabrata Das"],
+    "paperTitle": "Isolation-based Sub-Slices for Throughput Optimization in 5G Radio Access Network",
+    "conference": "IEEE CONECCT 2019"
+  },
+  {
+    "title": "Third Best Student Paper Award",
+    "authors": ["Amar Kumar Nandan", "Ritesh Kumar Kalle"],
+    "paperTitle": "VP8 Video: Performance Evaluation, Modelling and Frame Size Prediction",
+    "conference": "IEEE Region 10 Competition 2011"
+  }
+]

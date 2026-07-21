@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Sanjana T",
+    "role": "PhD Student | Reconfigurable Intelligent Surfaces",
+    "image": "/people/Sanjana.jpg",
+    "status": "ongoing",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Amrita Mishra",
+    "email": "sanjana.t@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/sanjana-t-2bb21b74/?originalSubdomain=in"
+  },
+  {
+    "name": "Amudheesan Nakkeeran",
+    "role": "PhD Student | Scheduling",
+    "image": "/people/Amudheesan.jpg",
+    "status": "ongoing",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "email": "amudheesan.nakkeeran@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/amudheesan-nakkeeran?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+  },
+  {
+    "name": "Srinivasan Selvaganapathy",
+    "role": "PhD Student | RACH, MTC",
+    "image": "/people/Srinivasan.jpg",
+    "status": "ongoing",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "email": "Srinivasan.Selvaganapathy@iiitb.ac.in"
+  },
+  {
+    "name": "Bavana B N",
+    "role": "PhD Student | Integrated Sensing and Communication (ISAC)",
+    "image": "/people/Bavana.jpg",
+    "status": "ongoing",
+    "supervisor": "Dr. Amrita Mishra",
+    "email": "bavana.bn@iiitb.ac.in",
+    "profileLink": "https://in.linkedin.com/in/bavanabn"
+  },
+  {
+    "name": "Yogita Pimpalkar",
+    "role": "PhD Student | Network Security, Quantum Security",
+    "image": "/people/Yogita.jpg",
+    "status": "ongoing",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "email": "yogita.pimpalkar@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/yogitawilson/"
+  },
+  {
+    "name": "Uma Maheswari",
+    "role": "PhD Student",
+    "image": "/people/Uma.jpg",
+    "status": "ongoing",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Raghuram Bharadwaj",
+    "email": "umamaheswari.natarajan@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/uma-maheswari-natarajan-780b62139/?originalSubdomain=in"
+  },
+  {
+    "name": "Grace Priscilla Nambi",
+    "role": "PhD Student | Intelligent Bandwidth Provisioning",
+    "image": "/people/grace.jpg",
+    "status": "ongoing",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Raghuram Bharadwaj",
+    "email": "gracepriscilla.nambi@iiitb.ac.in",
+    "profileLink": "https://in.linkedin.com/in/neeta-jha"
+  }
+]
