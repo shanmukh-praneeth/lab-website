@@ -179,6 +179,10 @@ body {
   user-select: none;
 }
 
+.institute-short-name {
+  display: none;
+}
+
 .institute-link {
   display: inline-block;  
   cursor: pointer;
@@ -265,4 +269,15 @@ body {
     margin-left: 20px;
   }
 
+}
+
+@media (max-width: 450px) {
+  
+  .institute-full-name {
+    display: none;
+  }
+
+  .institute-short-name {
+    display: inline;
+  }
 }
