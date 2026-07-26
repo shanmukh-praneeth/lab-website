@@ -1,5 +1,11 @@
 [
   {
+    "title": "Best Paper Award",
+    "authors": ["Tamizhelakkiya K", "Dibakar Das", "Jyotsna Bapat", "Debabrata Das"],
+    "paperTitle": "Intent-Based Zero-Touch Network Management for Smart Cities",
+    "conference": "Smart City Workshop (SCW) 2026"
+  },
+  {
     "title": "Best Paper Award (Track 2)",
     "authors": ["S Chaudhari", "Amrita Mishra", "Jyotsna Bapat"],
     "paperTitle": "Multi-RIS-based Target Positioning in Passive Radars",

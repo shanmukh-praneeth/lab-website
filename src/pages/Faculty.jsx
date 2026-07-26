@@ -11,21 +11,21 @@ export default function Faculty() {
     {
       name: "Prof. Debabrata Das",
       role: "Director, IIIT-B | Communications & Networking",
-      research: "Building the Internet of the Future",
+      research: "Pioneering the Next Generation of Wireless: 5G and 6G",
       image: debabrata,
       profileLink: "https://www.iiitb.ac.in/faculty/debabrata-das"
     },
     {
       name: "Prof. Jyotsna Bapat",
       role: "Professor | Communications, Networking & Security",
-      research: "Secure, Reliable, Intelligent Networks",
+      research: "Shaping the Future of Intelligent Wireless Communications",
       image: jyotsna,
       profileLink: "https://www.iiitb.ac.in/faculty/jyotsna-bapat"
     },
     {
         name: "Prof. Amrita Mishra",
         role: "Assistant Professor | Communications & Networking",
-        research: "AI-Driven Network Systems",
+        research: "Advancing AI-driven and High-Performance Wireless Systems",
         image: amrita,
         profileLink: "https://www.iiitb.ac.in/faculty/amrita-mishra"
     }

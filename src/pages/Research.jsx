@@ -2,6 +2,7 @@ import people from "../data/people.json";
 import "../styles/Research.css";
 import ibnztnimg from "../assets/ibn-ztn.png";
 import iotimg from "../assets/iot.png";
+import risimg from "../assets/ris.png";
 
 function PeopleList({ area }) {
   const filtered = people.filter(p =>
@@ -124,6 +125,12 @@ export default function Research() {
 
       <section id="ris" className="research-block">
         <h2>Reconfigurable Intelligent Surfaces (RIS)</h2>
+
+        <img 
+          src={risimg}
+          alt="RIS"
+          className="research-image"
+        />
 
         <p>
           Reconfigurable Intelligent Surfaces (RIS) introduce programmable control over the wireless propagation environment by using smart 
