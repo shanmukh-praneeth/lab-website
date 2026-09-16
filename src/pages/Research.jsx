@@ -3,6 +3,9 @@ import "../styles/Research.css";
 import ibnztnimg from "../assets/ibn-ztn.png";
 import iotimg from "../assets/iot.png";
 import risimg from "../assets/ris.png";
+import isacimg from "../assets/isac.png";
+import networksecurityimg from "../assets/network_security.png";
+import ntnimg from "../assets/ntn.png";
 
 function PeopleList({ area }) {
   const filtered = people.filter(p =>
@@ -66,6 +69,8 @@ export default function Research() {
           <a href="#massive-mimo">Massive MIMO</a>
 
           <a href="#network-security">Network Security</a>
+
+          <a href="#ntn">NTN</a>
 
         </div>
       </div>
@@ -153,6 +158,12 @@ export default function Research() {
 
       <section id="isac" className="research-block">
         <h2>Integrated Sensing and Communication (ISAC)</h2>
+
+        <img 
+          src={isacimg}
+          alt="ISAC"
+          className="research-image"
+        />
 
         <p>
           Integrated Sensing and Communication (ISAC) merges wireless communication and environmental sensing into a unified framework 
@@ -242,21 +253,73 @@ export default function Research() {
       <section id="network-security" className="research-block">
         <h2>Network Security</h2>
 
+        <img 
+          src={networksecurityimg}
+          alt="Network Security"
+          className="research-image"
+        />
+
         <p>
-          Network Security in modern wireless systems focuses on protecting data, devices, and infrastructure against evolving cyber threats 
-          while maintaining performance and scalability. With the rise of IoT, virtualization, and softwarized networks, security challenges 
-          span authentication, intrusion detection, privacy preservation, and secure resource allocation. AI-driven threat detection, 
-          zero-trust architectures, and secure network slicing are essential to ensure trustworthy communication in next-generation networks.
+          Network security in modern wireless communication systems is concerned with ensuring the confidentiality, integrity, availability, 
+          and resilience of data, devices, and network infrastructure against increasingly sophisticated cyber threats. The proliferation of 
+          Internet of Things (IoT) devices, network virtualization, software-defined networking (SDN), and cloud-native architectures has 
+          introduced new security challenges related to authentication, access control, intrusion detection, privacy preservation, and secure 
+          resource allocation. Addressing these challenges requires the integration of advanced security mechanisms, including AI-driven 
+          threat intelligence, zero-trust security frameworks, and secure network slicing, to enable trustworthy and resilient communication 
+          in next-generation 5G and 6G networks.
         </p>
 
         <p>
-          Networking and Communication lab research in network security is embedded within its broader focus on advanced communication systems 
-          and cyber-physical systems. The work emphasizes secure and resilient network architectures, particularly for critical infrastructure 
-          enabled by 5G/6G technologies. This includes securing network slicing, ensuring data integrity across domains, and developing 
-          trustworthy communication frameworks that can support national-scale deployments.
+          Research within the Networking and Communication Lab addresses network security as a fundamental component of advanced communication 
+          systems and cyber-physical infrastructures. The research focuses on the design and development of secure, resilient, and scalable 
+          network architectures capable of supporting critical national infrastructure and large-scale digital ecosystems. Key areas include 
+          securing network slicing in 5G/6G environments, ensuring end-to-end data integrity across heterogeneous domains, enhancing cyber 
+          resilience, and developing trustworthy communication frameworks that can support mission-critical applications while maintaining 
+          high levels of security, reliability, and performance.
         </p>
 
         <PeopleList area="Network Security" />
+      </section>
+
+      <section id="ntn" className="research-block">
+        <h2>Non-Terrestrial Networks (NTN)</h2>
+
+        <img
+          src={ntnimg}
+          alt="NTN"
+          className="research-image"
+        />
+
+        <p>
+          Non-Terrestrial Networks (NTNs) are emerging as a key component of 5G-Advanced and future 6G communication systems, 
+          extending network connectivity beyond the coverage limitations of conventional terrestrial infrastructure. NTNs integrate 
+          spaceborne and airborne communication platforms, including Low Earth Orbit (LEO), Medium Earth Orbit (MEO), and Geostationary 
+          Earth Orbit (GEO) satellites, as well as High-Altitude Platform Systems (HAPS) and Unmanned Aerial Vehicles (UAVs), with 
+          terrestrial radio access, transport, and core networks. This heterogeneous architecture enables communication services over 
+          geographically isolated, sparsely populated, maritime, aerial, and disaster-affected regions where deployment of conventional 
+          terrestrial infrastructure may be technically difficult or economically infeasible.
+        </p>
+
+        <p>
+          The different NTN platforms provide complementary communication characteristics. HAPS and UAVs can complement satellite connectivity 
+          by providing flexible regional coverage, rapid deployment, and temporary capacity enhancement. Together, these platforms can form a 
+          multi-layer space–air–ground network in which users may access services through different terrestrial and non-terrestrial paths. 
+          The integration of NTN with terrestrial infrastructure is particularly relevant to 6G's vision of ubiquitous and service-aware 
+          connectivity. NTN can support diverse applications such as massive IoT deployments, autonomous transportation, aviation and maritime 
+          communications, emergency and disaster recovery, remote healthcare, environmental monitoring, and broadband access. Inter-satellite 
+          links can further enable traffic to traverse satellite constellations before reaching an appropriate gateway, reducing dependence 
+          on a direct satellite-to-ground connection at every intermediate point.
+        </p>
+
+        <p>
+          From a networking research perspective, however, NTN introduces significant challenges for routing, resource allocation, 
+          mobility management, and Quality of Service (QoS) assurance. Unlike relatively stable terrestrial networks, NTN links exhibit 
+          substantial variations in propagation delay, available bandwidth, packet loss, connectivity duration, and congestion because of 
+          satellite movement, changing user distributions, weather conditions, and intermittent link availability. The resulting topology 
+          can therefore vary considerably over time. 
+        </p>
+
+        <PeopleList area="NTN" />
       </section>
 
     </div>

@@ -65,14 +65,14 @@
     "researchAreas": ["IoT"]
   },
   {
-    "name": "Ms. Yogita Pimpalkar",
+    "name": "Ms. Yogita Wilson Karke",
     "scholar": "https://scholar.google.com/citations?user=dNpdiLIAAAAJ&hl=en",
     "researchAreas": ["Network Security"]
   },
   {
     "name": "Mr. Chaithanya",
     "scholar": "https://www.linkedin.com/in/chaithanya-sai-g-3a0613b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-    "researchAreas": ["UAVs"]
+    "researchAreas": ["UAVs", "NTN"]
   },
   {
     "name": "Dr. Sharvari N P",
@@ -93,5 +93,10 @@
     "name": "Dr. Neeta Jha",
     "scholar": "https://scholar.google.com/citations?user=6GujG0wAAAAJ&hl=en",
     "researchAreas": ["mMIMO"]
+  },
+  {
+    "name": "Dr. Saptashri",
+    "scholar": "https://scholar.google.com/citations?user=6GujG0wAAAAJ&hl=en",
+    "researchAreas": ["NTN"]
   }
 ]
