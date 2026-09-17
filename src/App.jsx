@@ -16,6 +16,7 @@ import Projects from "./pages/Projects";
 import Research from "./pages/Research";
 import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop";
+import ResearchProjects from "./pages/ResearchProjects";
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
             <Route path="/innovation/awards" element={<Awards />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/research" element={<Research />} />
+            <Route path="/research/:area/projects" element={<ResearchProjects />} />
           </Routes>
         </div>
 

@@ -6,6 +6,7 @@ import risimg from "../assets/ris.png";
 import isacimg from "../assets/isac.png";
 import networksecurityimg from "../assets/network_security.png";
 import ntnimg from "../assets/ntn.png";
+import { Link } from "react-router-dom";
 
 function PeopleList({ area }) {
   const filtered = people.filter(p =>
@@ -209,6 +210,11 @@ export default function Research() {
         </p>
 
         <PeopleList area="IoT" />
+        <div className="research-ptojects-link">
+          <Link to="/research/iot/projects">
+            View Projects in this Area →
+          </Link>
+        </div>
       </section>
 
       <section id="uavs" className="research-block">

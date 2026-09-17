@@ -1,0 +1,172 @@
+{
+  "iot": {
+    "title": "Internet of Things (IoT)",
+    "projects": [
+      {
+        "title": "IoT Enabled Remote Compost Monitoring System",
+        "description": [
+          "We have designed an IoT based solution for large scale composting. This system reduces the human observation of the compost state by usage of sensors to measure the moisture, temperature, PH value, etc. It also indicates the odor of the compost by measuring the levels of Methane, H2S, and Ammonia. Human intervention is needed only when the measurements are off the desired range. Generally the quality of compost is monitored manually. Our device will reduce the manual effort and helps determine the optimum setting for successful composting.",
+          "The composition of the system using a set of sensors, battery operation, mechanical structure, wireless communication to edge using a controller and cloud enabled application. This enables remote monitoring of the compost."
+        ],
+        "points": [
+          "Battery operation",
+          "Low cost, low power RF star connectivity",
+          "Mechanical design to suit insertion into the compost bin",
+          "Sleep mode operation to conserve battery energy",
+          "Scaling of range possible using LoRaN",
+          "Remote configuration of hubs and control"
+        ],
+        "images": [
+            "compost_monitoring.png"
+        ]
+      },
+      {
+        "title": "Ethical Design of Edge-based Smart Irrigation System by Use Case Analysis",
+        "description": [
+          "As in any interconnected system, smart irrigation system has its vulnerabilities, which can cause security and privacy breaches. Malicious actors could exploit vulnerabilities in IoT devices, compromising the integrity of data, disrupting operations, and potentially causing substantial financial losses. In order to build a trustworthy system, the security and privacy vulnerabilities of the system need to be analyzed at the design phase.",
+          "In this work, the architecture, protocols, and users of an ethical smart irrigation system have been studied. The vulnerabilities associated with the architecture have been identified by analyzing the system architecture across the four layers, namely perception, network, edge, and application layers."
+        ],
+        "points": [],
+        "images": [
+            "ethical_design_1.png",
+            "ethical_design_2.png"
+        ]
+      },
+      {
+        "title": "ML-Augmented Network Packet Broker based Anomaly Detection at IoT-Edge Egress Port",
+        "description": [
+          "In this work, an experimental setup of a novel ML augmented NPB system for detecting anomalies at the IoT edge egress port has been developed. An Ethernet tester has been used to generate and introduce anomalies controlled by the bandwidth of the generated attack traffic.",
+          "A set of ML classifiers have been evaluated in terms of their accuracy in detecting anomalies. The pre-processing involved has been developed. Such a system can exploit the advantages of NPB based zero packet drop captures and signature detections, while allowing customised ML to be augmented based on the vertical and the type of data."
+        ],
+        "points": [],
+        "images": [
+            "ml_aug_net_1.png",
+            "ml_aug_net_2.png"
+        ]
+      },
+      {
+        "title": "Real-time Anomaly Detection at IoT-Edge Ingress Port using FPGA based ML Classifiers",
+        "description": [
+          "Edge based architectures are being widely used for various Internet of Things (IoT) verticals like smart factories, smart transportation, smart healthcare, etc. Intelligent edges have the advantages of quick reaction time, lesser data bandwidth requirements for cloud connectivity, and privacy because of localization of data.",
+          "Edge based IoT deployments make detection of anomalies in the ingress port which connects to the things, faster. These anomalies can be due to security attacks, malfunction of equipment or degradation of sensor performance. The anomalies can be due to variation in the patients’ vitals being monitored, in the case of smart healthcare with remote health monitoring.",
+          "It is very important to detect anomalies in real time with minimal latency as it dictates the response time of an appropriate action. Achieving low latencies in large scale IoT systems, wherein large number of sensors need to be monitored continuously, using only software is challenging.",
+          "In this work a real-time anomaly detector architecture, based on a set of Logistic Regression (LR) Machine Learning (ML) classifiers in FPGA has been proposed and developed. This anomaly detector monitors the ingress traffic at the IoT edge, handling separate streams of data from each sensor to predict the anomalies with minimal latency.",
+          "Hardware software partitioning used to achieve the real-time performance has been described. A novel LR model twin based re-training mechanism, which updates the weights of the set of classifiers, with minimal disruption of real-time operation has been used."
+        ],
+        "points": [],
+        "images": [
+            "rt_ano_det_iot_edge.png"
+        ]
+      },
+      {
+        "title": "Localizing attacks in PAN of IoT",
+        "description": [
+          "Routing Protocol for Low power and lossy networks (RPL) is the underlying protocol of 6LoWPAN, a core communication standard for the Internet of Things (IoT). The concept of rank is used in RPL for routing and its optimization. However, the rank provides an avenue for “Rank Attacks (RA)” like worst parent, increased rank, decreased rank, which are internal to 6LowPAN.",
+          "Several mechanisms of detecting such rank attacks have been discussed in literature. In this work, a smart building scenario with intelligent edges is considered for detecting the worst parent attacks of RPL.",
+          "Novelty of our approach is that in addition to detecting the attack, the impact of the malicious node location on the average number of control messages is used to identify the locality of the malicious node, using machine learning classification at the edge of the network.",
+          "This impact factor has been defined and analyzed in terms of the forwarding load of the node. Simulation results obtained for a given static node topology, show a localization accuracy of 0.67 using Support Vector Method (SVM), while the accuracy using eXtreme Gradient Boost (XGBoost) is 0.88.",
+          "Discussions on how the technique is applicable to any generalized network topology to reduce the number of packet level inspections, is also presented."
+        ],
+        "points": [],
+        "images": [
+            "loc_att_pan_iot.png"
+        ]
+      },
+      {
+        "title": "Azure edge-based architecture for detecting attacks in IoT networks",
+        "description": [
+          "Edge-based computing and intelligence is a promising approach to reduce backhaul traffic load. This technology when applied to Intrusion Detection Systems, has the potential of detecting the edge network intrusions in real-time with minimal latency as compared to centralized cloud-based approaches.",
+          "In this work a novel azure edge-based architecture using XGBoost model for classification, for detecting intrusions in smart buildings is explored. This architecture has been realized and demonstrated successfully using a Raspberry Pi 3 with Raspbian operating system, as an edge device.",
+          "The system has been developed and tested for its functionality and performance. The engineering details are namely, i) feature extraction ii) XGBoost and Azure edge porting and usage at edge device, i.e., Raspberry Pi3 iii) generating cloud-based client alerts.",
+          "The feature extraction was found to be most challenging task as compared to the Azure edge porting and XGBoost application to the extracted features."
+        ],
+        "points": [],
+        "images": [
+            "azure_edge_arch.png"
+        ]
+      },
+      {
+        "title": "Synthetic data for evaluating Intrusion Detection System",
+        "description": [
+          "Smart homes comprise of gadgets like refrigerators, air conditioners, energy meters etc, which send telemetry data to the cloud for analysis, decision making and control. Smart home networks are prone to attacks like denial of service, injection attack etc., which need to be detected by the Intrusion Detection Systems (IDS).",
+          "The challenge in the development of Machine Learning (ML) based IDS is the scarcity of actual data for ML model generation and evaluation. In this work, an approach of IDS based on the time difference between samples is proposed. Also, how the impact of the attacks can be synthesized, is investigated.",
+          "An XGBoost based classifier is evaluated using this synthetic data. The quality of this synthetic data has been computed in terms of Training on Synthetic data and Testing on Real Data (TSTR) and Prediction Capability (PC).",
+          "This synthetic data can be generated with multiple levels of Attack Impact Factor (AIF), where the level is determined by how difficult it is to classify the data accurately."
+        ],
+        "points": [],
+        "images": [
+            "synth_data_ids.png"
+        ]
+      },
+      {
+        "title": "Federated learning for enhancing privacy",
+        "description": [
+          "Prediction of energy consumption has several benefits like energy budgeting by smart grids, expenditure budgeting by users and comfort management by building management systems of smart buildings.",
+          "Smart buildings need to manage energy efficiently for which energy prediction plays a crucial role. The energy consumption predictions are done by machine learning algorithms which demand massive amounts of data for performing. Acquiring this data can lead to privacy and ethical breaches of the data owners.",
+          "Federated learning is a framework of distributed systems which can mitigate such breaches to an extent. In this work the Federated Learning framework is applied to the smart building energy prediction scenario, to develop a privacy enhanced smart building energy prediction system.",
+          "The design details of how the Federated Learning framework is applied is presented along with the performance of this prediction model as compared to centralized method of machine learning. DNN is used with the ASHRAE dataset to show the efficacy of this system."
+        ],
+        "points": [],
+        "images": [
+            "fed_learn_pri_enh.png"
+        ]
+      },
+      {
+        "title": "Digital Twins for Security applications",
+        "description": [
+          "Industry 4.0 brings about automation of smart factories, where the factory operations can be monitored and controlled remotely. This automation enhances the workflow efficiency. However, the Industry 4.0 associated digitization and networking in the smart factories makes them vulnerable to cyberattacks, because of the usage of weak passwords, open-source software, and communication protocols used in building them.",
+          "These vulnerabilities make Distributed Denial of Service (DDoS) attacks plausible. DDoS attacks can not only disrupt the normal operations, but also cost in terms of the brand-name, trust, and reputation loss. The solution is to quickly detect and mitigate these attacks.",
+          "This work describes a Digital Twin (DT) based approach for detection of DDoS cyber-attacks in smart factories. An ontology-based intrusion detection system is proposed, in which the DT that replicates the physical system, learns the normal operation of the physical network, and remembers it.",
+          "Whenever the physical system’s Quality of Service (QoS) metrics deviate from normality, an automated query to the knowledge base generates an alert.",
+          "This work involves the development of the architecture, prototype and its evaluation. This prototype has the advantages of context awareness, re-usability of model in complex contexts, and support for Relational Database (RD)."
+        ],
+        "points": [],
+        "images": [
+            "dt_sec_appl.png"
+        ]
+      },
+      {
+        "title": "Digital Twin based What-if Simulation of Security Attacks in Smart Irrigation Systems",
+        "description": [
+          "The rapid integration of Internet of Things, machine learning and big data technologies in smart irrigation systems has significantly enhanced the agricultural efficiency and water resource management. However, it is vital to secure the smart irrigation systems against all types of security attacks.",
+          "This work introduces a novel approach, leveraging digital twin technology, for simulating security attacks in smart irrigation systems. Towards achieving this goal, a digital twin, mirroring a physical irrigation system has been built, and a simulation model has been included into it to mimic the perception layer and personal area network attacks.",
+          "Such a digital twin helps in what-if analysis, to understand the impact of these attacks, on the performance of smart irrigation system.",
+          "An Amazon Web Services (AWS) based prototype, combining real-time data from sensors with simulation model of the impact of potential security breaches, has been successfully developed.",
+          "Further, how the DT can be used in detecting intrusions, thus enhancing the overall resilience and security of smart irrigation systems, has been tested. This work contributes to the growing field of cybersecurity for IoT applications, specifically addressing the unique challenges posed by the security attacks in smart irrigation."
+        ],
+        "points": [],
+        "images": [
+            "dt_sim_sis_1.png",
+            "dt_sim_sis_2.png"
+        ]
+      },
+      {
+        "title": "Agritech: A Crop Management Application",
+        "description": [
+          "Agriculture is a crucial sector that determines a country’s economy and it contributes significantly towards employment, Gross Domestic Product (GDP), and food security. Ethics in agricultural practices are very crucial to maintain ecological balance.",
+          "Over use of fertilizers and pesticides and lack of practices of maintaining the soil nutrients in farming, disrupt the ecological balance. Crop management is a complex process which plays an important in agriculture.",
+          "In this work, AgriTech, an integrated web application of an ethical crop management system has been developed. It consists of subsystems like crop recommendation, pest infestation identification, fertilizer suggestion, and plant disease identification, combined into a common application.",
+          "Such an integrated approach has the advantages of increasing crop yield and quality while at the same time, avoiding wastage of resources and encouraging sustainable and ethical farming.",
+          "The developed web application uses React and Flask APIs for the frontend and backend respectively, and then combines machine learning techniques, to achieve greater agility and efficiency."
+        ],
+        "points": [],
+        "images": [
+            "agritech_1.png",
+            "agritech_2.png"
+        ]
+      },
+      {
+        "title": "Digital twin for DoS/ DDoS attack Detection in Smart irrigation system",
+        "description": [
+          "Smart Agriculture which uses advanced Technologies like IoT, drones, robotics, AI are connected to public Network for communication. IoT devices connected to public network are prone to DoS, DDoS attacks. DDoS attacks are the malicious attacks from multiple sources.",
+          "Digital Twin for Agriculture is the virtual model of a physical farms or agricultural field. Digital Twin helps to simulate farming methods, crop monitoring, farming support, livestock monitoring, reduces waste etc.",
+          "In this work, NetSim, IoT Network simulation software is used to form the Digital Twin by mapping the Physical sensors, 5G Network and the Cloud server to the logical sensors, NetSim 5G Network and logical Server where malicious nodes from Logical Server injects Syn Flood to the logical sensors which drops in the application throughput is tested by increasing the malicious nodes."
+        ],
+        "points": [],
+        "images": [
+            "dt_ddos_det_sis.png"
+        ]
+      }
+    ]
+  }
+}
