@@ -5,6 +5,11 @@
     "researchAreas": ["ibn-ztn"]
   },
   {
+    "name": "Ms. Yogita Wilson Karke",
+    "scholar": "https://scholar.google.com/citations?user=dNpdiLIAAAAJ&hl=en",
+    "researchAreas": ["Network Security"]
+  },
+  {
     "name": "Ms Uma Maheswari",
     "scholar": "https://scholar.google.com/citations?user=rWvoGWIAAAAJ&hl=en",
     "researchAreas": ["ibn-ztn"]
@@ -63,11 +68,6 @@
     "name": "Dr. Pradyna Goankar",
     "scholar": "https://scholar.google.com/citations?user=buov4xAAAAAJ&hl=en",
     "researchAreas": ["IoT"]
-  },
-  {
-    "name": "Ms. Yogita Wilson Karke",
-    "scholar": "https://scholar.google.com/citations?user=dNpdiLIAAAAJ&hl=en",
-    "researchAreas": ["Network Security"]
   },
   {
     "name": "Mr. Chaithanya",

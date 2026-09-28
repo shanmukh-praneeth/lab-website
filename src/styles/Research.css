@@ -171,6 +171,23 @@
   text-decoration: underline;
 }
 
+.research-block ul {
+  margin: 10px 0 20px 25px;
+  padding-left: 20px;
+}
+
+.research-block li {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #374151;
+  margin-bottom: 8px;
+}
+
+.research-block li strong {
+  font-weight: 700;
+  color: #1f2937;
+}
+
 @media (max-width: 768px) {
 
   /* Title strip */
@@ -270,6 +287,21 @@
   /* People section */
   .people-list h4 {
     font-size: 17px;
+  }
+
+  .research-block ul {
+    margin: 10px 0 20px 10px;
+    padding-left: 20px;
+  }
+
+  .research-block li {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 8px;
+  }
+
+  .research-block li strong {
+    font-weight: 700;
   }
 
 }

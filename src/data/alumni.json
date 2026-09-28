@@ -2,26 +2,26 @@
     {
     "name": "Dr. Subha P E",
     "program": "PhD",
-    "role": "PhD Student | Dynamic Spectrum Management",
+    "role": "Dynamic Spectrum Management",
     "image": "/people/subha.jpg",
     "status": "graduated",
     "graduationYear": 2016,
     "supervisor": "Dr. Jyotsna Bapat"
   },
   {
-    "name": "Dr. Parthiban",
+    "name": "Dr. Parthiban Annamalai",
     "program": "PhD",
-    "role": "PhD Student | Resource Allocation",
+    "role": "Novel Resource Allocation Algorithms to maximize Sum Spectral Efficiency in Hybrid IBFD Networks for 5G and Beyond",
     "image": "/people/Parthiban.jpg",
     "status": "graduated",
-    "graduationYear": 2022,
+    "graduationYear": 2021,
     "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
     "profileLink": "https://in.linkedin.com/in/parthibanannamalai"
   },
   {
-    "name": "Dr. Pradnya Gaonkar",
+    "name": "Dr. Pradnya Tukaram Gaonkar",
     "program": "PhD",
-    "role": "PhD Student",
+    "role": "Optimization Model for Energy Cost and Indoor Comfort Management in IoT-Enabled Smart Building",
     "image": "/people/Pradnya.jpg",
     "status": "graduated",
     "graduationYear": 2022,
@@ -31,7 +31,7 @@
   {
     "name": "Dr. Sharvari N P",
     "program": "PhD",
-    "role": "PhD Student | Routing Algorithms for UAV-Assisted Communication",
+    "role": "Routing Algorithms for UAV-Assisted Communication: 5G and Beyond",
     "image": "/people/sharvarinp.jpg",
     "status": "graduated",
     "graduationYear": 2025,
@@ -49,6 +49,105 @@
     "profileLink": "https://in.linkedin.com/in/neeta-jha"
   },
   {
+    "name": "Dr. Asoke K Talukder",
+    "program": "PhD",
+    "role": "Enhancing SMS as Ubiquitous Stateful and Secured Transport Bearer",
+    "image": "/people/Askoe.jpg",
+    "status": "graduated",
+    "graduationYear": 2008,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/asoketalukder/"
+  },
+  {
+    "name": "Dr. Sandhya Kulkarni",
+    "program": "PhD",
+    "role": "Performace Analysis of Mobile and Mobile Multihop Relay WiMAX MAC Layer",
+    "image": "/people/Sandhya.jpg",
+    "status": "graduated",
+    "graduationYear": 2011,
+    "supervisor": "Dr. Debabrata Das, Dr. J T Devaraju",
+    "profileLink": "https://www.linkedin.com/in/sandhya-kulkarni-94656545/"
+  },
+  {
+    "name": "Dr. Ritesh Kumar Kalle",
+    "program": "PhD",
+    "role": "Novel Mechanism for quality of Service Enhancement and Power Saving in Broadband Wireless Access Networks",
+    "image": "/people/Ritesh.jpg",
+    "status": "graduated",
+    "graduationYear": 2014,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/riteshkalle/"
+  },
+  {
+    "name": "Dr. Sasirekha GVK",
+    "program": "PhD",
+    "role": "Bayesian Risk Management in Emergency Cognitive Radio Ad Hoc Network",
+    "image": "/people/sasirekha.jpg",
+    "status": "graduated",
+    "graduationYear": 2014,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/dr-sasirekha-gvk-60a7b4b/"
+  },
+  {
+    "name": "Dr. Prashant K Wali",
+    "program": "PhD",
+    "role": "Energy Efficient Medium Access Control Algorithms for LTE-Advanced",
+    "image": "/people/Prashant.jpg",
+    "status": "graduated",
+    "graduationYear": 2017,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/prashant-wali-79353313/"
+  },
+  {
+    "name": "Dr. Dibakar Das",
+    "program": "PhD",
+    "role": "Efficient Software Defined Network Technologies for Wireless Access Network",
+    "image": "/people/Dibakar.jpg",
+    "status": "graduated",
+    "graduationYear": 2018,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/dibakar-das-ph-d-2a35843/"
+  },
+  {
+    "name": "Dr. Saptarshi Chaudhari",
+    "program": "PhD",
+    "role": "Enhanced MAC Protocol and SON Technique to Improve the QOS of LTE-Advanced Network",
+    "image": "/people/Saptarshi.jpg",
+    "status": "graduated",
+    "graduationYear": 2018,
+    "supervisor": "Dr. Debabrata Das"
+  },
+  {
+    "name": "Dr. V Anil Kumar",
+    "program": "PhD",
+    "role": "Feedback Manipulation in Next Generation Transport Layer Protocols: Emerging Threats",
+    "image": "/people/Anil.jpg",
+    "status": "graduated",
+    "graduationYear": 2021,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://in.linkedin.com/in/saptashri-rajendran-0b1a3b1b9"
+  },
+  {
+    "name": "Dr. Tushar Vrind",
+    "program": "PhD",
+    "role": "Deep Learning-based Novel Protocols for Low Altitude Aerial Vehicle in 5G Advanced and 6G Wireless Networks",
+    "image": "/people/Tushar.jpg",
+    "status": "graduated",
+    "graduationYear": 2025,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/tusharv/"
+  },
+  {
+    "name": "Dr. Sharvari Ravindran",
+    "program": "PhD",
+    "role": "Advanced Multi-Domain Resource Management Frameworks and Strategies for Enhanced User QoS and QoE in 5G-Advanced and 6G Network Slicing",
+    "image": "/people/sharvari.jpg",
+    "status": "graduated",
+    "graduationYear": 2025,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/dr-sharvari-ravindran-ph-d-35928223a/"
+  },
+  {
     "name": "Soumaditya Chaudhuri",
     "program": "MS",
     "role": "MS Researcher",
@@ -61,7 +160,7 @@
   {
     "name": "Akansha Singh",
     "program": "MS",
-    "role": "MS Researcher",
+    "role": "Health Monitoring for Smart Grid Network for Prevention Against Failures",
     "image": "/people/Akansha.jpg",
     "status": "graduated",
     "graduationYear": 2014,
@@ -70,7 +169,7 @@
   {
     "name": "Sunita Katre",
     "program": "MS",
-    "role": "MS Researcher",
+    "role": "Improved Voice Call performance of Tactical Military Networks by Means of Differential Priority and Variable MTU Size Selection Mechanisms.",
     "image": "/people/Sunita.jpg",
     "status": "graduated",
     "graduationYear": 2019,
@@ -115,12 +214,138 @@
     "profileLink": "https://www.linkedin.com/in/priyadarshini-rengarajan-284065bb/?originalSubdomain=in"
   },
   {
-    "name": "Manjunath V",
+    "name": "Manjunath Gonchigara Vemanna",
     "program": "MS",
-    "role": "MS Researcher",
+    "role": "Efficient Scheduling Techniques for 5G and Beyond Services in Heterogenous Multi-Access Networks",
     "image": "/people/Manjunath.jpg",
     "status": "graduated",
-    "graduationYear": 2026,
+    "graduationYear": 2025,
     "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das"
+  },
+  {
+    "name": "Yogita Wilson Karke",
+    "program": "MS",
+    "role": "AI-Powered Anomaly Detection Systems For Securing IoT Networks Against Emerging Cloud Attacks",
+    "image": "/people/Yogita.jpg",
+    "status": "graduated",
+    "graduationYear": 2025,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/yogitawilson/"
+  },
+  {
+    "name": "Dandra Prasad Basavaraj",
+    "program": "MS",
+    "role": "Efficient Protocol Enhancement for Throughput and Out of Service Coverage Area Performance Enhancement in Broadband Mobile Network",
+    "image": "/people/Dandra.jpg",
+    "status": "graduated",
+    "graduationYear": 2022,
+    "supervisor": "Dr. Debabrata Das"
+  },
+  {
+    "name": "Tushar Vrind",
+    "program": "MS",
+    "role": "Efficient MAC Layer Algorithms for Resource Allocation in Aerial Communication of 6G Wireless Networks",
+    "image": "/people/Tushar.jpg",
+    "status": "graduated",
+    "graduationYear": 2020,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/tusharv/"
+  },
+  {
+    "name": "Sharvari Ravindran",
+    "program": "MS",
+    "role": "Efficient Network Slicing MAC Protocol for System  Resource Optimization in 5G Radio Access Network",
+    "image": "/people/sharvari.jpg",
+    "status": "graduated",
+    "graduationYear": 2020,
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/dr-sharvari-ravindran-ph-d-35928223a/"
+  },
+  {
+    "name": "Irfan Baig",
+    "program": "MS",
+    "role": "Enhancement of MAC Performance Through Efficient Self-Organizing Techniques in an LTE-Advanced Network",
+    "image": "/people/Irfan.jpg",
+    "status": "graduated",
+    "graduationYear": 2017,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/irfan-baig-a1930318/"
+  },
+  {
+    "name": "Parthiban Annamalai",
+    "program": "MS",
+    "role": "Efficient Coverage Enhancement Techniques for MTC Devices Across RATs",
+    "image": "/people/Parthiban.jpg",
+    "status": "graduated",
+    "graduationYear": 2015,
+    "supervisor": "Dr. Debabrata Das, Dr. Jyotsna Bapat",
+    "profileLink": "https://www.linkedin.com/in/parthibanannamalai/"
+  },
+  {
+    "name": "Bivas Bhattacharya",
+    "program": "MS",
+    "role": "Study of Software Defined Network to Enhance Quality of Service of Internet",
+    "image": "/people/Bivas.jpg",
+    "status": "graduated",
+    "graduationYear": 2015,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/bivasbhattacharya/"
+  },
+  {
+    "name": "M.K. Durai Murugan",
+    "program": "MS",
+    "role": "Secured Wireless LAN Communication",
+    "image": "/people/Murugan.jpg",
+    "status": "graduated",
+    "graduationYear": 2013,
+    "supervisor": "Dr. Debabrata Das"
+  },
+  {
+    "name": "Raghavendra Sunku",
+    "program": "MS",
+    "role": "Study on Off-line and On-line Charging of Blended Services in IP Multimedia Subsystem Networks",
+    "image": "/people/Raghavendra.jpg",
+    "status": "graduated",
+    "graduationYear": 2013,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/raghavendra-sunku-9a241914/"
+  },
+  {
+    "name": "Amar Kumar Nandan",
+    "program": "MS",
+    "role": "Energy Efficient and QoS based Video Transmission over Broadband Wireless Access Network",
+    "image": "/people/Aman.jpg",
+    "status": "graduated",
+    "graduationYear": 2012,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/amar-kumar-nandan-5bb56811/?locale=fr"
+  },
+  {
+    "name": "Dibakar Das",
+    "program": "MS",
+    "role": "Multi-RAT Mobility and Power Save Approaches in User Equipment",
+    "image": "/people/Dibakar.jpg",
+    "status": "graduated",
+    "graduationYear": 2012,
+    "supervisor": "Dr. Debabrata Das",
+    "profileLink": "https://www.linkedin.com/in/dibakar-das-ph-d-2a35843/"
+  },
+  {
+    "name": "Goveas Rohan Pascal",
+    "program": "MS",
+    "role": "Study on Blending of Services in IP Multimedia Subsystem Networks",
+    "image": "/people/Goveas.jpg",
+    "status": "graduated",
+    "graduationYear": 2011,
+    "supervisor": "Dr. Debabrata Das, Dr. Pande"
+  },
+  {
+    "name": "Amitkeerti Mahaveer Lagare",
+    "program": "MS",
+    "role": "Studies on Quality of Service Enhancement for WiMAX MAC",
+    "image": "/people/Amitkeerti.jpg",
+    "status": "graduated",
+    "graduationYear": 2010,
+    "supervisor": "Dr. Debabrata Das"
   }
 ]

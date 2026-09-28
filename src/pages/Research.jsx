@@ -69,7 +69,7 @@ export default function Research() {
 
           <a href="#massive-mimo">Massive MIMO</a>
 
-          <a href="#network-security">Network Security</a>
+          <a href="#network-security">Network Security and PQC</a>
 
           <a href="#ntn">NTN</a>
 
@@ -257,32 +257,51 @@ export default function Research() {
       </section>
 
       <section id="network-security" className="research-block">
-        <h2>Network Security</h2>
+        <h2>Network Security and Post-Quantum Cryptography (PQC)</h2>
 
         <img 
           src={networksecurityimg}
-          alt="Network Security"
+          alt="Network Security and PQC"
           className="research-image"
         />
 
         <p>
-          Network security in modern wireless communication systems is concerned with ensuring the confidentiality, integrity, availability, 
-          and resilience of data, devices, and network infrastructure against increasingly sophisticated cyber threats. The proliferation of 
-          Internet of Things (IoT) devices, network virtualization, software-defined networking (SDN), and cloud-native architectures has 
-          introduced new security challenges related to authentication, access control, intrusion detection, privacy preservation, and secure 
-          resource allocation. Addressing these challenges requires the integration of advanced security mechanisms, including AI-driven 
-          threat intelligence, zero-trust security frameworks, and secure network slicing, to enable trustworthy and resilient communication 
-          in next-generation 5G and 6G networks.
+          Network security in modern wireless communication systems ensures the confidentiality, integrity, availability, and resilience of 
+          data, devices, and network infrastructure against increasingly sophisticated cyber threats. The proliferation of IoT devices, network 
+          virtualization, software-defined networking (SDN), and cloud-native architectures has introduced new challenges spanning authentication, 
+          access control, intrusion detection, privacy preservation, and secure resource allocation. Compounding these challenges is the 
+          emerging threat of quantum computing, which will render widely deployed public-key cryptographic schemes obsolete and demands a 
+          proactive transition to post-quantum cryptography across networked systems. As next-generation 5G and 6G networks push toward greater 
+          virtualization, disaggregation, and support for mission-critical services, securing this expanding attack surface has become central 
+          to building trustworthy, resilient communication infrastructure. Thus, motivating the research directions pursued within the 
+          Networking and Communication Lab.
         </p>
 
         <p>
-          Research within the Networking and Communication Lab addresses network security as a fundamental component of advanced communication 
-          systems and cyber-physical infrastructures. The research focuses on the design and development of secure, resilient, and scalable 
-          network architectures capable of supporting critical national infrastructure and large-scale digital ecosystems. Key areas include 
-          securing network slicing in 5G/6G environments, ensuring end-to-end data integrity across heterogeneous domains, enhancing cyber 
-          resilience, and developing trustworthy communication frameworks that can support mission-critical applications while maintaining 
-          high levels of security, reliability, and performance.
+          Research within the Networking and Communication Lab addresses network security as a fundamental component of advanced 
+          communication systems and cyber-physical infrastructures, focusing on secure, resilient, and scalable network architectures 
+          capable of supporting critical national infrastructure and large-scale digital ecosystems. Key research areas include:
         </p>
+
+        <ul>
+          <li><strong>AI-driven threat intelligence:</strong> Proactive detection and response mechanisms for identifying and mitigating threats across 
+            networked systems</li>
+          <li><strong>Zero-trust security frameworks:</strong> Continuous verification models for authentication, access control, and trust management</li>
+          <li><strong>Network slicing security:</strong> Secure network slicing to isolate and protect critical services, and securing resource allocation across 
+            5G/6G network slices</li>
+          <li><strong>End-to-end data integrity:</strong> Protecting data as it moves across heterogeneous network domains</li>
+          <li><strong>Cyber resilience:</strong> Discovering various new attack mechanisms in networking and AI/ML modules and hardening communication 
+            frameworks against disruption and attack</li>
+          <li><strong>Post-quantum migration for critical infrastructure:</strong> As quantum computing matures, critical infrastructure sectors, including 
+            smart metering, EV charging, and industrial control systems, face growing pressure to transition away from classical public-key 
+            cryptography before it becomes vulnerable. This emerging research area explores how legacy operational technology (OT) 
+            environments, often built on constrained and long-lived hardware, can adopt post-quantum cryptographic protocols for long-term 
+            data and key security. Key open problems include discovering and cataloguing cryptographic usage across live network traffic and 
+            heterogeneous OT protocols and designing transition mechanisms that protect legacy systems against the quantum threat without 
+            requiring wholesale hardware replacement.</li>
+          <li><strong>Trustworthy communication frameworks:</strong> supporting mission-critical applications while maintaining high levels of security, 
+            reliability, and performance</li>
+        </ul>
 
         <PeopleList area="Network Security" />
       </section>
