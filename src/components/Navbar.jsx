@@ -24,7 +24,7 @@ export default function Navbar() {
       onClick={() => window.open("https://www.iiitb.ac.in", "_blank")}
     >
       <span className="institute-full-name">International Institute of Information Technology Bangalore</span>
-      <span className="institute-short-name">IIIT Banglore</span>
+      <span className="institute-short-name">IIIT Bangalore</span>
     </div>
 
 
