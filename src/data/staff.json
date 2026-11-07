@@ -1,7 +1,7 @@
 [
   {
     "name": "Dr. Sasirekha GVK",
-    "role": "Postdoctoral Fellow | Industrial IoT",
+    "role": "Industrial IoT",
     "image": "/people/sasirekha.jpg",
     "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
     "category": "postdoc",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Dr. Sharvari Ravindran",
-    "role": "Postdoctoral Fellow | Network Slicing and Resource Allocation",
+    "role": "Network Slicing and Resource Allocation",
     "image": "/people/sharvari.jpg",
     "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
     "category": "postdoc",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Dr. Dibakar Das",
-    "role": "Postdoctoral Fellow | Zero Touch Networks",
+    "role": "Zero Touch Networks",
     "image": "/people/Dibakar.jpg",
     "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
     "category": "postdoc",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Dr. Tamizhelakkiya K",
-    "role": "Senior Research Fellow | Zero Touch Networks",
+    "role": "Zero Touch Networks",
     "image": "/people/Elakkiya.jpg",
     "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
     "category": "srf",
@@ -37,10 +37,46 @@
   },
   {
     "name": "Indhu M",
-    "role": "Senior Research Fellow | Energy Management Systems",
+    "role": "Energy Management Systems",
     "image": "/people/Indhu.png",
     "supervisor": "Dr. Jyotsna Bapat, Dr. Sasirekha GVK",
     "category": "srf",
     "email": "indhu.m@iiitb.ac.in"
+  },
+  {
+    "name": "Pokuri Siva Sai Krishna",
+    "role": "Zero Touch Networks",
+    "image": "/people/sivasaikrishna.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "projectAssociate",
+    "email": "pokurisivasaikrishna@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/siva-sai-krishna-/"
+  },
+  {
+    "name": "Yadavelly Akshaya Sai",
+    "role": "5G O-RAN Base Station",
+    "image": "/people/akshaya.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "projectAssociate",
+    "email": "yadavelly.akshayasai@iiitb.ac.in",
+    "profileLink": "http://www.linkedin.com/in/akshay-yedavelly"
+  },
+  {
+    "name": "Patnool Muskan",
+    "role": "5G O-RAN Base Station",
+    "image": "/people/muskan.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "projectAssociate",
+    "email": "muskan@iiitb.ac.in",
+    "profileLink": "https://www.linkedin.com/in/patnool-muskan-b21335260"
+  },
+  {
+    "name": "Niladri Roy Goswami",
+    "role": "5G O-RAN Base Station",
+    "image": "/people/niladri.jpg",
+    "supervisor": "Dr. Jyotsna Bapat, Dr. Debabrata Das",
+    "category": "projectAssociate",
+    "email": "niladriroy.goswami@iiitb.ac.in",
+    "profileLink": "http://www.linkedin.com/in/niladri-roy-goswami-288014245"
   }
 ]

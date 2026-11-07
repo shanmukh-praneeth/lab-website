@@ -86,5 +86,13 @@
         "applicationNumber": "202641054524",
         "status": "Filed",
         "link": "https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/Application"
+    },
+    {
+        "title": "Systems and Method for Estimating and Optimizing Throughput in O-RAN Slicing Environment",
+        "innovators": ["Sharvari Ravindran", "Yogita Pimpalkar", "Jyotsna Bapat", "Debabrata Das"],
+        "grantDate": "2025-04-02",
+        "applicationNumber": "202541107160",
+        "status": "Granted",
+        "link": "https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus"
     }
 ]
